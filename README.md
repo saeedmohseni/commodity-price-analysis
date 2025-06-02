@@ -26,3 +26,19 @@ Geneva is a global hub for commodity trading. This project reflects typical task
 - Add real-time data feeds (e.g., via APIs)
 - Extend to agricultural commodities or metals
 - Add Monte Carlo simulation
+
+  ## 📈 Future Development
+
+- Integrate real-time data feeds
+- Add basic machine learning models for trend prediction
+- Connect C++ modules for performance-critical tasks
+- Expand to other commodities (e.g., steel, agriculture)
+
+## 📖 About Me
+
+I am a commodity trader with over 3 years of experience, a mechanical engineering background, and a strong interest in financial analysis and data science. This project is part of my portfolio to transition into more quantitative and tech-driven roles in the commodity sector, especially in Switzerland.
+
+---
+
+Feel free to check out the code and leave feedback!
+
