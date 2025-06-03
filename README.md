@@ -1,44 +1,27 @@
-# Commodity Price Analysis for Crude Oil (Geneva Focused)
+# Commodity Price Analysis & Forecasting
 
-This project analyzes historical crude oil prices, simulates risk metrics, and proposes basic hedging strategies — with a focus on the commodity trading environment of Geneva, Switzerland.
+This project focuses on analyzing and forecasting commodity prices, starting with crude oil. The goal is to build a professional-grade analysis pipeline using Python and C++ (where applicable), suitable for real-world commodity trading applications, especially in the Geneva market.
 
-## 🎯 Objectives
-- Analyze price trends of crude oil using Python
-- Explore volatility and develop simple risk models
-- Simulate a basic hedging strategy
-- Connect findings to the real-world operations of Geneva-based trading firms (e.g., Vitol, Trafigura)
+## Structure
 
-## 📌 Technologies
-- Python (pandas, numpy, matplotlib, yfinance)
-- Jupyter Notebook
-- Git for version control
+- `data/`: Contains raw and processed data.
+- `notebooks/`: Jupyter Notebooks for data exploration and modeling.
+- `src/`: Source Python scripts and modules.
+- `reports/figures`: Visual outputs and charts.
 
-## 🗺️ Relevance to Geneva
-Geneva is a global hub for commodity trading. This project reflects typical tasks in the industry: market analysis, volatility modeling, and strategic insight. The methodology aligns with skillsets taught at the University of Geneva’s Master's in Commodity Trading.
+## Getting Started
 
-## 📁 Structure
-- `/data`: Sample historical price data
-- `/notebooks`: Step-by-step development
-- `/src`: Python scripts for reusable functions
-- `/reports`: Summary and insights
+1. Clone the repository
+2. Install requirements: `pip install -r requirements.txt`
+3. Run notebooks in the `/notebooks` folder
 
-## 📚 Future Expansion
-- Add real-time data feeds (e.g., via APIs)
-- Extend to agricultural commodities or metals
-- Add Monte Carlo simulation
+## Tools Used
 
-  ## 📈 Future Development
+- Python (pandas, matplotlib, numpy, yfinance)
+- Jupyter
+- [Coming soon] C++ modules
 
-- Integrate real-time data feeds
-- Add basic machine learning models for trend prediction
-- Connect C++ modules for performance-critical tasks
-- Expand to other commodities (e.g., steel, agriculture)
+## Author
 
-## 📖 About Me
-
-I am a commodity trader with over 3 years of experience, a mechanical engineering background, and a strong interest in financial analysis and data science. This project is part of my portfolio to transition into more quantitative and tech-driven roles in the commodity sector, especially in Switzerland.
-
----
-
-Feel free to check out the code and leave feedback!
+Saeed Mohseni – [LinkedIn](https://www.linkedin.com/in/saeedmohseni)
 
